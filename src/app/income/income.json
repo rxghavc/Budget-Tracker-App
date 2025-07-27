@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Salary",
+    "amount": 4000,
+    "date": "2025-03-01",
+    "category": "Job",
+    "notes": "March salary"
+  },
+  {
+    "name": "Freelance Project",
+    "amount": 800,
+    "date": "2025-03-05",
+    "category": "Freelance",
+    "notes": "Website redesign"
+  },
+  {
+    "name": "Salary",
+    "amount": 4000,
+    "date": "2025-04-01",
+    "category": "Job",
+    "notes": "April salary"
+  },
+  {
+    "name": "Freelance Project",
+    "amount": 900,
+    "date": "2025-04-10",
+    "category": "Freelance",
+    "notes": "App UI design"
+  },
+  {
+    "name": "Salary",
+    "amount": 4000,
+    "date": "2025-05-01",
+    "category": "Job",
+    "notes": "May salary"
+  },
+  {
+    "name": "Freelance Project",
+    "amount": 850,
+    "date": "2025-05-10",
+    "category": "Freelance",
+    "notes": "Consulting"
+  },
+  {
+    "name": "Salary",
+    "amount": 4000,
+    "date": "2025-06-01",
+    "category": "Job",
+    "notes": "June salary"
+  },
+  {
+    "name": "Freelance Project",
+    "amount": 800,
+    "date": "2025-06-05",
+    "category": "Freelance",
+    "notes": "Website redesign"
+  },
+  {
+    "name": "Salary",
+    "amount": 4000,
+    "date": "2025-04-05",
+    "category": "Job",
+    "notes": "Bonus"
+  },
+  {
+    "name": "Salary",
+    "amount": 4000,
+    "date": "2025-05-05",
+    "category": "Job",
+    "notes": "Bonus"
+  },
+  {
+    "name": "Salary",
+    "amount": 4000,
+    "date": "2025-06-03",
+    "category": "Job",
+    "notes": "Bonus"
+  },
+  {
+    "name": "Freelance Project",
+    "amount": 900,
+    "date": "2025-04-15",
+    "category": "Freelance",
+    "notes": "Logo design"
+  },
+  {
+    "name": "Freelance Project",
+    "amount": 950,
+    "date": "2025-05-15",
+    "category": "Freelance",
+    "notes": "App bugfix"
+  },
+  {
+    "name": "Freelance Project",
+    "amount": 1000,
+    "date": "2025-06-07",
+    "category": "Freelance",
+    "notes": "Consulting"
+  },
+  {
+    "name": "Freelance Project",
+    "amount": 950,
+    "date": "2025-06-08",
+    "category": "Freelance",
+    "notes": "Accessories"
+  }
+]

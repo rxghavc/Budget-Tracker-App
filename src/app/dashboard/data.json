@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Groceries",
+    "category": "Food",
+    "amount": 54.23,
+    "date": "2025-06-07",
+    "notes": "Trader Joe's"
+  },
+  {
+    "id": 2,
+    "name": "Rent",
+    "category": "Housing",
+    "amount": 1200.00,
+    "date": "2025-06-01",
+    "notes": "June rent"
+  },
+  {
+    "id": 3,
+    "name": "Spotify Subscription",
+    "category": "Entertainment",
+    "amount": 9.99,
+    "date": "2025-06-03",
+    "notes": "Monthly subscription"
+  },
+  {
+    "id": 4,
+    "name": "Gasoline",
+    "category": "Transport",
+    "amount": 42.10,
+    "date": "2025-06-05",
+    "notes": "Shell station"
+  },
+  {
+    "id": 5,
+    "name": "Utilities",
+    "category": "Bills",
+    "amount": 87.65,
+    "date": "2025-06-02",
+    "notes": "Electric + Water"
+  },
+  {
+    "id": 6,
+    "name": "Coffee",
+    "category": "Food",
+    "amount": 3.75,
+    "date": "2025-06-08",
+    "notes": "Starbucks"
+  }
+]

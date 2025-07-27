@@ -1,0 +1,7 @@
+[
+  { "category": "Food", "value": 400, "color": "#60a5fa" },
+  { "category": "Rent", "value": 1200, "color": "#f87171" },
+  { "category": "Transport", "value": 150, "color": "#34d399" },
+  { "category": "Entertainment", "value": 100, "color": "#fbbf24" },
+  { "category": "Utilities", "value": 200, "color": "#a78bfa" }
+]
